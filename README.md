@@ -63,3 +63,7 @@ Struktur Proyek
 diner_dash_simulation/
 ├── diner_dash.cpp  // File kode utama
 └── README.md       // File dokumentasi
+CONTACT:
+Hammam Mokhamad (5223600064)
+Indrasta Widyadana (5223600064)
+
